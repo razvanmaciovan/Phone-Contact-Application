@@ -1,0 +1,2 @@
+nume1;prenume1;telefon1;email1;companie1
+nume2;prenume2;telefon2;email2;companie2

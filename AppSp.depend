@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1621845337 source:d:\faculty\appsp\main.cpp
+	"Contacte.h"
+	"ListaContacte.h"
+	<iostream>
+	<string>
+	<cctype>
+	<vector>
+	<fstream>
+
+1621793703 d:\faculty\appsp\include\contacte.h
+	<iostream>
+	<string>
+
+1621841019 d:\faculty\appsp\include\listacontacte.h
+	"Contacte.h"
+	<iostream>
+	<string>
+	<vector>
+
+1621803469 source:d:\faculty\appsp\src\contacte.cpp
+	"Contacte.h"
+	<iostream>
+	<sstream>
+
+1622006501 source:d:\faculty\appsp\src\listacontacte.cpp
+	"ListaContacte.h"
+	<fstream>
+	<sstream>
+
+1621845337 source:d:\faculty\appsp\contactapplication\main.cpp
+	"Contacte.h"
+	"ListaContacte.h"
+	<iostream>
+	<string>
+	<cctype>
+	<vector>
+	<fstream>
+
+1621793703 d:\faculty\appsp\contactapplication\include\contacte.h
+	<iostream>
+	<string>
+
+1621841019 d:\faculty\appsp\contactapplication\include\listacontacte.h
+	"Contacte.h"
+	<iostream>
+	<string>
+	<vector>
+
+1621803469 source:d:\faculty\appsp\contactapplication\src\contacte.cpp
+	"Contacte.h"
+	<iostream>
+	<sstream>
+
+1635339403 source:d:\faculty\appsp\contactapplication\src\listacontacte.cpp
+	"ListaContacte.h"
+	<fstream>
+	<sstream>
+
